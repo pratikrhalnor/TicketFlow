@@ -27,7 +27,7 @@ TicketFlow is a **simple and efficient Support Ticket System** built with **PHP,
 ### **📌 Steps to Install:**
 
 ```bash
-1. Clone the repository: git clone https://github.com/yourusername/SupportEase.git
+1. Clone the repository: git clone https://github.com/yourusername/TicketFlow.git
 2. Import `database.sql` file into phpMyAdmin
 3. Update `config.php` with your database credentials
 4. Deploy on a local server (XAMPP) or hosting platform
